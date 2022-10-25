@@ -1,0 +1,13 @@
+# some steps to take note of
+ 
+1. base case
+2. recurrence relation
+3. processing at the right place
+4. trust the function that it will handle(means just solve for one and others will be handled)
+5. think logic/code in form of simple english language
+6. the function statement is replaced by the value it returns and also give attention to the args that are passed the fnc
+7. take care of the flow of code(like head recursion vs tail recursion)
+8. A function is finished due to a return value or the code inside it is finished, after that it returns to it's ancestor function to the exact code line where it's called.
+9. Always keep accurate track of the code-flow; 
+10. In many ques, recursion flow follows the dfs to the base case, and the answers are generally build up from the base case.
+11. In many ques, First draw the base recursion tree or, the pseudo login, and then write code according to it. 
