@@ -1,4 +1,4 @@
-# some steps to take note of
+# some steps to take note of -
  
 1. base case
 2. recurrence relation
@@ -11,3 +11,4 @@
 9. Always keep accurate track of the code-flow; 
 10. In many ques, recursion flow follows the dfs to the base case, and the answers are generally build up from the base case.
 11. In many ques, First draw the base recursion tree or, the pseudo login, and then write code according to it. 
+12. Generally we don't have to to the dry run again and again in recursion. Just making the logical tree and writing the pseudo code and then writing the code on it's basis is enough.

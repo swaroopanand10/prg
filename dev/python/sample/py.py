@@ -3,11 +3,7 @@ def func(a, b):
 
 
 a = 49
-b = 51
+b = 55
 
 c = func(a, b)
-anand = 20
 print(c)
-
-
-d = 30 + anand

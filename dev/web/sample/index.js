@@ -8,4 +8,3 @@ function ss(a,b) {
 sum = ss(a, b)
 
 console.log(sum)
-
